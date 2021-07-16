@@ -1,0 +1,1 @@
+simple example of how a file handler works in python
